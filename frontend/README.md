@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-lalal
+lalal ce foutu truc me casse le cul !
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
