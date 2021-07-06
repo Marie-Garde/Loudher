@@ -8,7 +8,7 @@ import {
     P,
     ItemMenu,
     Marker
-} from "/Users/mariegarde/Desktop/Projet - perso/Loudher/frontend/src/styled-components/Header.jsx";
+} from "/Users/mariegarde/Desktop/Projet - perso/Loudher/src/styled-components/Header.jsx";
 
 export default function Header () {
     const [selectedTab, setSelectedTab] = useState("Accueil")
